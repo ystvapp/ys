@@ -1,2 +1,2 @@
-window.winUrl = "https://www.apiystv.top";
+window.winUrl = "https://ysapi.yszxcapi.top";
 window.winUploadUrl = "https://sqapi.heropoapa.com";
